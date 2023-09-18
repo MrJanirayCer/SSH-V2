@@ -31,7 +31,7 @@ servermessage="<h3><font color='red'>
 ⚡⚡✩░▒▓▆▅▃▂▁𝐌𝟐𝐌𝐨𝐝▁▂▃▅▆▓▒░✩⚡⚡
 </font></h3>
 <h4><font color='cyan'>
-↤↤↤↤↤ GCP SERVER BY ꧁༒☬͓̽K͓͓̽̽o͓̽ ͓̽M͓͓̽̽i͓͓̽̽n͓̽ ͓̽H͓͓̽̽t͓͓̽̽e͓͓̽̽t͓̽☬༒꧂ ↦↦↦↦↦
+GCP SERVER BY ꧁༒☬͓̽K͓͓̽̽o͓̽ ͓̽M͓͓̽̽i͓͓̽̽n͓̽ ͓̽H͓͓̽̽t͓͓̽̽e͓͓̽̽t͓̽☬༒꧂
 </font></h4>
 <h3><font color='red'>
 ⚡⚡✩░▒▓▆▅▃▂▁𝐌𝟐𝐌𝐨𝐝▁▂▃▅▆▓▒░✩⚡⚡
