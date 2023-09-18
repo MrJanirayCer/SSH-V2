@@ -13,7 +13,7 @@ cyan='\e[96m'   #စိမ်းပြာရောင်
 none='\e[0m'    #အရောင်မရှိ
 
 #Username နှင့် Password ပြောင်းရန်
-username="m2hmobile"
+username="m2hmod"
 password="m2hmobile"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
