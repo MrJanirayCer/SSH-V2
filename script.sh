@@ -28,13 +28,13 @@ dias="2"
 # h4 သည် = စာလုံးအလတ် ဖြစ်သည်
 # h3 သည် = စာလုံးအကြီး  ဖြစ်သည်
 servermessage="<h3><font color='red'>
-▬▬▬▬▬▬▬▬🅼2🅼🅾🅳▬▬▬▬▬▬▬▬
+⚡⚡✩░▒▓▆▅▃▂▁𝐌𝟐𝐌𝐨𝐝▁▂▃▅▆▓▒░✩⚡⚡
 </font></h3>
 <h4><font color='cyan'>
-↤↤↤↤↤ GCP SERVER BY ꧁༒☬ 🅼2🅼🅾🅳 ☬༒꧂ ↦↦↦↦↦
+↤↤↤↤↤ GCP SERVER BY ꧁༒☬͓̽K͓͓̽̽o͓̽ ͓̽M͓͓̽̽i͓͓̽̽n͓̽ ͓̽H͓͓̽̽t͓͓̽̽e͓͓̽̽t͓̽☬༒꧂ ↦↦↦↦↦
 </font></h4>
 <h3><font color='red'>
-▬▬▬▬▬▬▬▬🅼2🅼🅾🅳▬▬▬▬▬▬▬▬
+⚡⚡✩░▒▓▆▅▃▂▁𝐌𝟐𝐌𝐨𝐝▁▂▃▅▆▓▒░✩⚡⚡
 </font></h3>"
 #End
 #ဒီအောက်က စာတွေပြင်ရန်မလိုပါ🌺
@@ -52,7 +52,7 @@ echo "$username $sshlimiter" >>/root/usuarios.db
 IP=$(wget -qO- ipv4.icanhazip.com)
 echo ""
 echo -e "\033[1;32m===================================="
-echo -e "\033[1;32m   🌺ㅤONLY/:FORYOU&ALLㅤ🌺  " 
+echo -e "\033[1;32m ⚡⚡☄꧁༒☬͓̽K͓͓̽̽o͓̽ ͓̽M͓͓̽̽i͓͓̽̽n͓̽ ͓̽H͓͓̽̽t͓͓̽̽e͓͓̽̽t͓̽☬༒꧂☄⚡⚡" 
 echo -e "\033[1;32m===================================="
 echo ""
 echo -e "\033[1;37m◈─────⪧ SSH ACCOUNT ⪦─────◈"
@@ -79,7 +79,7 @@ echo -e "${cyan} \ \______  \       \ \  \/\  \       \ \______  \              
 echo -e "${cyan}  \|_____|\  \       \ \  \/\  \       \|_____|\  \                           ${plain}"
 echo -e "${cyan}         \ \__\       \ \_______\             \ \__\                          ${plain}"
 echo -e "${cyan}          \|__|        \|_______|              \|__|                          ${plain}"
-echo -e "${green}Contact the developer https://t.me/nkka404 for more information              ${plain}"
+echo -e "${green}Contact the developer https://t.me/m2hmobile for more information              ${plain}"
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
 
 echo -e "${cyan}i am 404 😎 ${plain}"
