@@ -72,24 +72,22 @@ echo "------------------------------------"
 echo ""
 
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
-echo -e "${cyan}                                                                                               dddddddd
-MMMMMMMM               MMMMMMMM 222222222222222    MMMMMMMM               MMMMMMMM                             d::::::d
-M:::::::M             M:::::::M2:::::::::::::::22  M:::::::M             M:::::::M                             d::::::d
-M::::::::M           M::::::::M2::::::222222:::::2 M::::::::M           M::::::::M                             d::::::d
-M:::::::::M         M:::::::::M2222222     2:::::2 M:::::::::M         M:::::::::M                             d:::::d 
-M::::::::::M       M::::::::::M            2:::::2 M::::::::::M       M::::::::::M   ooooooooooo       ddddddddd:::::d 
-M:::::::::::M     M:::::::::::M            2:::::2 M:::::::::::M     M:::::::::::M oo:::::::::::oo   dd::::::::::::::d 
-M:::::::M::::M   M::::M:::::::M         2222::::2  M:::::::M::::M   M::::M:::::::Mo:::::::::::::::o d::::::::::::::::d 
-M::::::M M::::M M::::M M::::::M    22222::::::22   M::::::M M::::M M::::M M::::::Mo:::::ooooo:::::od:::::::ddddd:::::d 
-M::::::M  M::::M::::M  M::::::M  22::::::::222     M::::::M  M::::M::::M  M::::::Mo::::o     o::::od::::::d    d:::::d 
-M::::::M   M:::::::M   M::::::M 2:::::22222        M::::::M   M:::::::M   M::::::Mo::::o     o::::od:::::d     d:::::d 
-M::::::M    M:::::M    M::::::M2:::::2             M::::::M    M:::::M    M::::::Mo::::o     o::::od:::::d     d:::::d 
-M::::::M     MMMMM     M::::::M2:::::2             M::::::M     MMMMM     M::::::Mo::::o     o::::od:::::d     d:::::d 
-M::::::M               M::::::M2:::::2       222222M::::::M               M::::::Mo:::::ooooo:::::od::::::ddddd::::::dd
-M::::::M               M::::::M2::::::2222222:::::2M::::::M               M::::::Mo:::::::::::::::o d:::::::::::::::::d
-M::::::M               M::::::M2::::::::::::::::::2M::::::M               M::::::M oo:::::::::::oo   d:::::::::ddd::::d
-MMMMMMMM               MMMMMMMM22222222222222222222MMMMMMMM               MMMMMMMM   ooooooooooo      ddddddddd   ddddd
-${plain}"
+echo -e "${cyan}MMMMMMMM               MMMMMMMM 222222222222222    MMMMMMMM               MMMMMMMM                             dddddddd${plain}"
+echo -e "${cyan}M:::::::M             M:::::::M2:::::::::::::::22  M:::::::M             M:::::::M                             d::::::d${plain}"
+echo -e "${cyan}M::::::::M           M::::::::M2::::::222222:::::2 M::::::::M           M::::::::M                             d::::::d${plain}"
+echo -e "${cyan}M:::::::::M         M:::::::::M2222222     2:::::2 M:::::::::M         M:::::::::M                             d:::::d ${plain}"
+echo -e "${cyan}M::::::::::M       M::::::::::M            2:::::2 M::::::::::M       M::::::::::M   ooooooooooo       ddddddddd:::::d ${plain}"
+echo -e "${cyan}M:::::::::::M     M:::::::::::M            2:::::2 M:::::::::::M     M:::::::::::M oo:::::::::::oo   dd::::::::::::::d ${plain}"
+echo -e "${cyan}M:::::::M::::M   M::::M:::::::M         2222::::2  M:::::::M::::M   M::::M:::::::Mo:::::::::::::::o d::::::::::::::::d ${plain}"
+echo -e "${cyan}M::::::M M::::M M::::M M::::::M    22222::::::22   M::::::M M::::M M::::M M::::::Mo:::::ooooo:::::od:::::::ddddd:::::d ${plain}"
+echo -e "${cyan}M::::::M  M::::M::::M  M::::::M  22::::::::222     M::::::M  M::::M::::M  M::::::Mo::::o     o::::od::::::d    d:::::d ${plain}"
+echo -e "${cyan}M::::::M   M:::::::M   M::::::M 2:::::22222        M::::::M   M:::::::M   M::::::Mo::::o     o::::od:::::d     d:::::d ${plain}"
+echo -e "${cyan}M::::::M    M:::::M    M::::::M2:::::2             M::::::M    M:::::M    M::::::Mo::::o     o::::od:::::d     d:::::d ${plain}"
+echo -e "${cyan}M::::::M     MMMMM     M::::::M2:::::2             M::::::M     MMMMM     M::::::Mo::::o     o::::od:::::d     d:::::d ${plain}"
+echo -e "${cyan}M::::::M               M::::::M2:::::2       222222M::::::M               M::::::Mo:::::ooooo:::::od::::::ddddd::::::dd${plain}"
+echo -e "${cyan}M::::::M               M::::::M2::::::2222222:::::2M::::::M               M::::::Mo:::::::::::::::o d:::::::::::::::::d${plain}"
+echo -e "${cyan}M::::::M               M::::::M2::::::::::::::::::2M::::::M               M::::::M oo:::::::::::oo   d:::::::::ddd::::d${plain}"
+echo -e "${cyan}MMMMMMMM               MMMMMMMM22222222222222222222MMMMMMMM               MMMMMMMM   ooooooooooo      ddddddddd   ddddd${plain}"
 echo -e "${green}Contact the developer https://t.me/m2hmobile for more information              ${plain}"
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
 
