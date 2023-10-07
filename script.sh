@@ -13,8 +13,8 @@ cyan='\e[96m'   #စိမ်းပြာရောင်
 none='\e[0m'    #အရောင်မရှိ
 
 #Username နှင့် Password ပြောင်းရန်
-username="m2mod773"
-password="m2hmobile773"
+username="m2modvpnofficial"
+password="m2modvpnoffical"
 
 #SSH USER LIMIT သတ်မှတ်ရန်
 sshlimiter="300"
